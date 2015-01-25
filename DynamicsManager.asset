@@ -5,10 +5,10 @@ PhysicsManager:
   m_ObjectHideFlags: 0
   m_Gravity: {x: 0, y: -35, z: 0}
   m_DefaultMaterial: {fileID: 0}
-  m_BounceThreshold: 2
+  m_BounceThreshold: 5
   m_SleepVelocity: .150000006
   m_SleepAngularVelocity: .140000001
-  m_MaxAngularVelocity: 100
+  m_MaxAngularVelocity: 300
   m_MinPenetrationForPenalty: 0
   m_SolverIterationCount: 6
   m_RaycastsHitTriggers: 1
