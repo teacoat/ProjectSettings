@@ -18,9 +18,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/test3.unity
   - enabled: 1
-    path: Assets/Scenes/1_1.unity
+    path: Assets/Scenes/1_1-bad.unity
   - enabled: 1
-    path: Assets/Scenes/1_2.unity
+    path: Assets/Scenes/1_2-bad.unity
   - enabled: 1
     path: Assets/Scenes/field.unity
   - enabled: 1
@@ -33,4 +33,11 @@ EditorBuildSettings:
     path: Assets/Scenes/1_4.unity
   - enabled: 1
     path: Assets/Scenes/1_3.unity
-
+  - enabled: 1
+    path: Assets/Scenes/1_3.unity
+  - enabled: 1
+    path: Assets/Scenes/3_3.unity
+  - enabled: 1
+    path: Assets/Scenes/1_1.unity
+  - enabled: 1
+    path: Assets/Scenes/1_2.unity
