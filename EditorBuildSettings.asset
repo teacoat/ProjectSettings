@@ -41,3 +41,5 @@ EditorBuildSettings:
     path: Assets/Scenes/1_1.unity
   - enabled: 1
     path: Assets/Scenes/1_2.unity
+  - enabled: 1
+    path: Assets/Scenes/downhill2.unity
