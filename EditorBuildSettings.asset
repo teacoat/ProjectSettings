@@ -8,42 +8,52 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/main_menu.unity
   - enabled: 1
-    path: Assets/Scenes/test.unity
-  - enabled: 1
-    path: Assets/Scenes/bumper_paradise.unity
-  - enabled: 1
-    path: Assets/Scenes/downhill.unity
-  - enabled: 1
-    path: Assets/Scenes/test2.unity
-  - enabled: 1
-    path: Assets/Scenes/test3.unity
-  - enabled: 1
-    path: Assets/Scenes/1_1-bad.unity
-  - enabled: 1
-    path: Assets/Scenes/1_2-bad.unity
-  - enabled: 1
-    path: Assets/Scenes/field.unity
-  - enabled: 1
-    path: Assets/Scenes/2_1.unity
-  - enabled: 1
     path: Assets/Scenes/0_1.unity
   - enabled: 1
-    path: Assets/Scenes/aaron_test.unity
+    path: Assets/Scenes/0_2.unity
   - enabled: 1
-    path: Assets/Scenes/1_4.unity
+    path: Assets/Scenes/0_3.unity
   - enabled: 1
-    path: Assets/Scenes/1_3.unity
-  - enabled: 1
-    path: Assets/Scenes/1_3.unity
-  - enabled: 1
-    path: Assets/Scenes/3_3.unity
+    path: Assets/Scenes/0_4.unity
   - enabled: 1
     path: Assets/Scenes/1_1.unity
   - enabled: 1
     path: Assets/Scenes/1_2.unity
   - enabled: 1
-    path: Assets/Scenes/downhill2.unity
+    path: Assets/Scenes/1_3.unity
+  - enabled: 1
+    path: Assets/Scenes/2_1.unity
+  - enabled: 1
+    path: Assets/Scenes/2_2.unity
+  - enabled: 1
+    path: Assets/Scenes/2_3.unity
+  - enabled: 1
+    path: Assets/Scenes/3_1.unity
+  - enabled: 1
+    path: Assets/Scenes/3_2.unity
+  - enabled: 1
+    path: Assets/Scenes/3_3.unity
+  - enabled: 1
+    path: Assets/Scenes/4_1.unity
   - enabled: 1
     path: Assets/Scenes/4_2.unity
   - enabled: 1
-    path: Assets/Scenes/4_1.unity
+    path: Assets/Scenes/4_3.unity
+  - enabled: 1
+    path: Assets/Scenes/aaron_test.unity
+  - enabled: 1
+    path: Assets/Scenes/desert_test.unity
+  - enabled: 1
+    path: Assets/Scenes/field_test.unity
+  - enabled: 1
+    path: Assets/Scenes/rick_test.unity
+  - enabled: 1
+    path: Assets/Scenes/test.unity
+  - enabled: 1
+    path: Assets/Scenes/test2.unity
+  - enabled: 1
+    path: Assets/Scenes/test3.unity
+  - enabled: 1
+    path: Assets/Scenes/volcano 1.unity
+  - enabled: 1
+    path: Assets/Scenes/volcano 2.unity
