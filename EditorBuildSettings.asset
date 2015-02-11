@@ -57,3 +57,5 @@ EditorBuildSettings:
     path: Assets/Scenes/volcano 1.unity
   - enabled: 1
     path: Assets/Scenes/volcano 2.unity
+  - enabled: 1
+    path: Assets/Scenes/4_4.unity
