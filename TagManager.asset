@@ -8,7 +8,9 @@ TagManager:
   - Level_Button
   - Sector_Button
   - Moving_Platform
+  - Fire_Rock
   - 
+  - Rock
   - 
   Builtin Layer 0: Default
   Builtin Layer 1: TransparentFX
@@ -22,7 +24,7 @@ TagManager:
   User Layer 9: Player
   User Layer 10: Skybox
   User Layer 11: Finish Cubes
-  User Layer 12: 
+  User Layer 12: Fire_Rock
   User Layer 13: 
   User Layer 14: 
   User Layer 15: 
