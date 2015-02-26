@@ -11,6 +11,8 @@ TagManager:
   - Fire_Rock
   - 
   - Rock
+  - Monolith
+  - Monolith_Pickup
   - 
   Builtin Layer 0: Default
   Builtin Layer 1: TransparentFX
