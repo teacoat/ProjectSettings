@@ -10,9 +10,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/0_1.unity
   - enabled: 1
-    path: Assets/Scenes/0_2.unity
-  - enabled: 1
     path: Assets/Scenes/0_3.unity
+  - enabled: 1
+    path: Assets/Scenes/0_2.unity
   - enabled: 1
     path: Assets/Scenes/0_4.unity
   - enabled: 1
@@ -62,13 +62,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/0_5.unity
   - enabled: 1
-    path: Assets/Scenes/0_6.unity
+    path: Assets/Scenes/0_9.unity
   - enabled: 1
     path: Assets/Scenes/0_7.unity
   - enabled: 1
     path: Assets/Scenes/0_8.unity
   - enabled: 1
-    path: Assets/Scenes/0_9.unity
+    path: Assets/Scenes/0_6.unity
   - enabled: 1
     path: Assets/Scenes/0_10.unity
   - enabled: 1
