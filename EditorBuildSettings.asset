@@ -113,3 +113,27 @@ EditorBuildSettings:
     path: Assets/Scenes/3_9.unity
   - enabled: 1
     path: Assets/Scenes/3_10.unity
+  - enabled: 1
+    path: Assets/Scenes/4_5.unity
+  - enabled: 1
+    path: Assets/Scenes/4_6.unity
+  - enabled: 1
+    path: Assets/Scenes/4_7.unity
+  - enabled: 1
+    path: Assets/Scenes/4_8.unity
+  - enabled: 1
+    path: Assets/Scenes/4_9.unity
+  - enabled: 1
+    path: Assets/Scenes/4_10.unity
+  - enabled: 1
+    path: Assets/Scenes/5_4.unity
+  - enabled: 1
+    path: Assets/Scenes/5_5.unity
+  - enabled: 1
+    path: Assets/Scenes/5_6.unity
+  - enabled: 1
+    path: Assets/Scenes/5_7.unity
+  - enabled: 1
+    path: Assets/Scenes/5_8.unity
+  - enabled: 1
+    path: Assets/Scenes/5_9.unity
