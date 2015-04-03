@@ -13,6 +13,10 @@ TagManager:
   - Rock
   - Monolith
   - Monolith_Pickup
+  - DefaultSurface
+  - RockSurface
+  - GrassSurface
+  - MetalSurface
   layers:
   - Default
   - TransparentFX
